@@ -1,3 +1,5 @@
-const App: React.FC = () => <div className='App'></div>;
+import React from 'react';
+
+const App: React.FC = () => <div className="App" />;
 
 export default App;
